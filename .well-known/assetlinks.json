@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.dani.myapplicationpoll",
+    "sha256_cert_fingerprints":
+    ["BF:75:C4:47:67:D1:BE:E6:37:A2:D2:E3:A7:3D:FA:06:42:A5:F9:5D:DF:3B:D4:20:B5:83:85:25:9E:0F:AA:45"]
+  }
+}]
